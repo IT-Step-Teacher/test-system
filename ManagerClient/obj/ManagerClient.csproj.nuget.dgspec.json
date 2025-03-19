@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\popov_v\\source\\repos\\TestSystem\\ManagerClient\\ManagerClient.csproj": {}
+    "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev2\\test-system\\ManagerClient\\ManagerClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\popov_v\\source\\repos\\TestSystem\\ManagerClient\\ManagerClient.csproj": {
+    "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev2\\test-system\\ManagerClient\\ManagerClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\popov_v\\source\\repos\\TestSystem\\ManagerClient\\ManagerClient.csproj",
+        "projectUniqueName": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev2\\test-system\\ManagerClient\\ManagerClient.csproj",
         "projectName": "ManagerClient",
-        "projectPath": "C:\\Users\\popov_v\\source\\repos\\TestSystem\\ManagerClient\\ManagerClient.csproj",
+        "projectPath": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev2\\test-system\\ManagerClient\\ManagerClient.csproj",
         "packagesPath": "C:\\Users\\popov_v\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\popov_v\\source\\repos\\TestSystem\\ManagerClient\\obj\\",
+        "outputPath": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev2\\test-system\\ManagerClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\popov_v\\AppData\\Roaming\\NuGet\\NuGet.Config",
