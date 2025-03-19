@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\popov_v\\source\\repos\\TestSystem\\TeacherClient\\TeacherClient.csproj": {}
+    "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\TeacherClient\\TeacherClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\popov_v\\source\\repos\\TestSystem\\TeacherClient\\TeacherClient.csproj": {
+    "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\TeacherClient\\TeacherClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\popov_v\\source\\repos\\TestSystem\\TeacherClient\\TeacherClient.csproj",
+        "projectUniqueName": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\TeacherClient\\TeacherClient.csproj",
         "projectName": "TeacherClient",
-        "projectPath": "C:\\Users\\popov_v\\source\\repos\\TestSystem\\TeacherClient\\TeacherClient.csproj",
+        "projectPath": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\TeacherClient\\TeacherClient.csproj",
         "packagesPath": "C:\\Users\\popov_v\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\popov_v\\source\\repos\\TestSystem\\TeacherClient\\obj\\",
+        "outputPath": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\TeacherClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\popov_v\\AppData\\Roaming\\NuGet\\NuGet.Config",

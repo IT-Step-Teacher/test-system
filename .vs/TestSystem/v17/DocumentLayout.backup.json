@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\popov_v\\source\\repos\\TestSystem\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E08CEA37-B3E6-4617-A507-D46927F5A9CD}|ModelsLibrary\\ModelsLibrary.csproj|c:\\users\\popov_v\\documents\\projects\\cp\\dev1\\test-system\\modelslibrary\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08CEA37-B3E6-4617-A507-D46927F5A9CD}|ModelsLibrary\\ModelsLibrary.csproj|solutionrelative:modelslibrary\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08CEA37-B3E6-4617-A507-D46927F5A9CD}|ModelsLibrary\\ModelsLibrary.csproj|c:\\users\\popov_v\\documents\\projects\\cp\\dev1\\test-system\\modelslibrary\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08CEA37-B3E6-4617-A507-D46927F5A9CD}|ModelsLibrary\\ModelsLibrary.csproj|solutionrelative:modelslibrary\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08CEA37-B3E6-4617-A507-D46927F5A9CD}|ModelsLibrary\\ModelsLibrary.csproj|c:\\users\\popov_v\\documents\\projects\\cp\\dev1\\test-system\\modelslibrary\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08CEA37-B3E6-4617-A507-D46927F5A9CD}|ModelsLibrary\\ModelsLibrary.csproj|solutionrelative:modelslibrary\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\ModelsLibrary\\Manager.cs",
+              "RelativeDocumentMoniker": "ModelsLibrary\\Manager.cs",
+              "ToolTip": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\ModelsLibrary\\Manager.cs",
+              "RelativeToolTip": "ModelsLibrary\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:26:42.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\ModelsLibrary\\Teacher.cs",
+              "RelativeDocumentMoniker": "ModelsLibrary\\Teacher.cs",
+              "ToolTip": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\ModelsLibrary\\Teacher.cs",
+              "RelativeToolTip": "ModelsLibrary\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:26:30.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\ModelsLibrary\\Student.cs",
+              "RelativeDocumentMoniker": "ModelsLibrary\\Student.cs",
+              "ToolTip": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\ModelsLibrary\\Student.cs",
+              "RelativeToolTip": "ModelsLibrary\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:26:16.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
