@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\popov_v\\source\\repos\\TestSystem\\StudentClient\\StudentClient.csproj": {}
+    "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\StudentClient\\StudentClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\popov_v\\source\\repos\\TestSystem\\StudentClient\\StudentClient.csproj": {
+    "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\StudentClient\\StudentClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\popov_v\\source\\repos\\TestSystem\\StudentClient\\StudentClient.csproj",
+        "projectUniqueName": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\StudentClient\\StudentClient.csproj",
         "projectName": "StudentClient",
-        "projectPath": "C:\\Users\\popov_v\\source\\repos\\TestSystem\\StudentClient\\StudentClient.csproj",
+        "projectPath": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\StudentClient\\StudentClient.csproj",
         "packagesPath": "C:\\Users\\popov_v\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\popov_v\\source\\repos\\TestSystem\\StudentClient\\obj\\",
+        "outputPath": "C:\\Users\\popov_v\\Documents\\Projects\\CP\\Dev1\\test-system\\StudentClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\popov_v\\AppData\\Roaming\\NuGet\\NuGet.Config",
